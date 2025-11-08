@@ -8,7 +8,7 @@
 ### I’m a Software and Data Engineer passionate about building intelligent systems that transform complex data into scalable, real-world solutions.
 
 ### 🧩 What I Do  
-- 💻 Develop **web apps** and **RESTful APIs** with clean, scalable architecture.  
+- 💻 Develop **Full stack web apps** and **RESTful APIs** with clean, scalable architecture.  
 - 📊 Build and maintain **ETL pipelines** and **data warehouses** to support analytics & BI.  
 - 🤖 Deploy **AI/ML models** using **TensorFlow / PyTorch** for predictive insights.  
 - ☁️ Manage **cloud infrastructure** on **Azure / AWS / GCP** using **Docker & CI/CD**.  
