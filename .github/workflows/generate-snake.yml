@@ -50,18 +50,4 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Next, commit your changes to save it to the remote repository. This simply creates a scheduled job that runs every 12 hours to check if any new commits have been added to your repository. Next, it generates and saves some image files to the outputs branch. These files are for an animation of a snake eating your commit history. Pretty interesting, I know!
 
-To see this animation in action, simply add the following to your README.md file (in the root of the special repository):
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{iaunsahsan}/{iaunsahsan}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{iaunsahsan}/{iaunsahsan}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{iaunsahsan}/{iaunsahsan}/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
