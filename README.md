@@ -1,7 +1,5 @@
-<div align="center"> 
-  <p>Visitor count</p>
+
       ![Profile Views](https://github-vistors-counter.onrender.com/github?username=<iaunsahsan>)
-</div>
 
 <img src="[https://github.com/iaunsahsan/iaunsahsan/blob/main/Gemini_Generated_Image_o4k16lo4k16lo4k1.jpg]" alt="Banner of me sitting in front of a desk">
 
