@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=iaunsahsan&label=Profile%20Views&color=0e75b6&style=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=iaunsahsan&label=Profile%20Views&color=brightgreen&style=flat)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Auns+Ahsan!;" />
 </h1>
