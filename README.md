@@ -13,10 +13,9 @@
 - 🤖 Deploy **AI/ML models** using **TensorFlow / PyTorch** for predictive insights.  
 - ☁️ Manage **cloud infrastructure** on **Azure / AWS / GCP** using **Docker & CI/CD**.  
 - 🔍 Deliver **data visualizations** and insights that power business decisions.
-- - ⚙️ Passionate about **predictive analytics, workflow automation, and scalable software systems**  
+- ⚙️ Passionate about **predictive analytics, workflow automation, and scalable software systems**  
 - 🌱 Currently exploring **LLMs, MLOps, and edge AI** for real-time applications  
-- 🎯 My goal: to create **ethical, efficient, and innovative technology** that empowers teams and improves decision-making
-  
+- 🎯 My goal: to create **ethical, efficient, and innovative technology** that empowers teams and improves decision-making 
 - 💬 Ask me about **Python, C++, .NET, Java, Node.js, React...or anything [here](https://github.com/{iaunsahsan}/{iaunsahsan}/issues)**
 
 <br>
