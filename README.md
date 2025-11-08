@@ -7,7 +7,48 @@
 
 ### I’m a Software and Data Engineer passionate about building intelligent systems that transform complex data into scalable, real-world solutions.
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+## 🧩 Core Responsibilities & What I Do  
+
+### 💻 Software Engineering  
+- ⚙️ Designed and developed **scalable web applications** using **MERN (MongoDB, Express.js, React, Node.js)**.  
+- 🔌 Built **RESTful & GraphQL APIs** enabling seamless integration across microservices.  
+- 🧱 Implemented **CI/CD pipelines** using GitHub Actions, Jenkins, and Azure DevOps for automated testing & deployment.  
+- 🌐 Deployed and managed **cloud infrastructure** on **Azure / AWS / GCP** using Docker & Kubernetes.  
+- 🧰 Optimized performance through clean architecture and modular design patterns.  
+
+---
+
+### 📊 Data Engineering & Analytics  
+- 🛠️ Designed and maintained **ETL pipelines** to extract, transform, and load large datasets efficiently.  
+- 🧮 Built **data warehouses and analytical models** to support **BI dashboards** (Power BI, Tableau).  
+- 🧹 Automated **data validation & quality checks**, ensuring clean and consistent datasets.  
+- 🧠 Integrated **machine learning models** for predictive analytics and smart automation.  
+- 🐍 Leveraged **Python (Pandas, PySpark, SQLAlchemy)** for data processing and analytics.  
+
+---
+
+### 🤖 AI/ML & Automation  
+- 🤝 Developed and deployed **ML models** using **TensorFlow, PyTorch, and Scikit-learn**.  
+- 🔍 Built **AI-powered APIs and agents** leveraging **LLMs (OpenAI, LangChain)** for workflow automation.  
+- 📈 Conducted **data-driven experiments** to enhance model accuracy and performance.  
+- 🔄 Implemented **MLOps pipelines** for model monitoring, retraining, and lifecycle management.  
+
+---
+
+### ☁️ DevOps & System Integration  
+- 🧩 Managed **Infrastructure-as-Code (IaC)** using **Terraform** and **Docker Compose**.  
+- 🔗 Integrated **third-party APIs & external data sources** to extend platform functionality.  
+- 🛡️ Ensured **data security, compliance, and access control** across systems.  
+- 📊 Monitored application health using **Prometheus, Grafana, and ELK Stack**.  
+
+---
+
+### 🤝 Collaboration & Impact  
+- 🧠 Worked closely with cross-functional teams to turn business requirements into technical solutions.  
+- 📊 Delivered **data insights and visualizations** that drive smarter decisions.  
+- 💬 Mentored junior engineers and contributed to **open-source projects**.  
+- 🧩 Advocated **clean code, agile development, and continuous learning** principles.
+  
 - 💬 Ask me about **Python, C++, .NET, Java, Node.js, React...or anything [here](https://github.com/{iaunsahsan}/{iaunsahsan}/issues)**
 
 <br>
